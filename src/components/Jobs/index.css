@@ -4,6 +4,8 @@
   background-color: #f3f4f6;
 }
 
+
+
 .job-card {
   display: flex;
   justify-content: space-between;
@@ -24,6 +26,7 @@
 .job-name {
   display: flex;
   align-items: center;
+  
 }
 
 .job-profile {
@@ -58,7 +61,6 @@
   font-size: 0.95rem;
   display: -webkit-box;
   overflow: hidden;
-  /* -webkit-line-clamp: 2; */
   -webkit-box-orient: vertical;
 }
 

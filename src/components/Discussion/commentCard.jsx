@@ -55,7 +55,7 @@ const CommentCard = ({ value, deleteComment }) => {
                   data-testid="image-preview"
                   className={`${imageUrl ? "image-text-editor" : ""}`}
                   style={{ width: "150px" }}
-                />
+                />                
               )}
 
               <div className="buttons">
