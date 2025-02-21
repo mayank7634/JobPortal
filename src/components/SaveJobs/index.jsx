@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+//import React, { useState } from "react";
 import Navbar from "../Navbar";
-import react from "react";
+//import react from "react";
 
 const SaveJobs = () => {
   const jobs = [JSON.parse(localStorage.getItem("Job"))];
